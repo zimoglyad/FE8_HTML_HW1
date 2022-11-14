@@ -1,0 +1,20 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Denys Zymogliad FE8",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "eslint": "^8.27.0",
+    "gulp": "^4.0.2"
+  }
+}
