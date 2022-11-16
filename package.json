@@ -1,12 +1,16 @@
 {
   "name": "project-x",
   "version": "1.0.0",
-  "description": "",
+  "description": "Denys Zymogliad FE8",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
-  "author": "Denys Zymogliad FE8",
+  "author": "Denys <denys@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/Denys_Zym/fe8_html_hw1"
+  },
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.2",
